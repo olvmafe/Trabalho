@@ -12,12 +12,9 @@ p{
 font-size: larger;
 }
 a:link, a:visited {
-    background-color: rgb(92, 92, 92);
+    background-color: rgb(255, 0, 0);
     color:rgb(0, 0, 0);
-    display: inline-block;
+    display: none;
   }
   
-  a:hover, a:active {
-    background-image: -moz-element(imgbotao);
-    color: rgb(77, 76, 76);
-  }
+
