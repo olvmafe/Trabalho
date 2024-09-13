@@ -9,13 +9,12 @@ p{
 font-size: larger;
 }
 a:link, a:visited {
-    background-color: white;
+    background-color: rgb(92, 92, 92);
     color:rgb(0, 0, 0);
-    border: 2px solid rgb(136, 136, 136);
     display: inline-block;
   }
   
   a:hover, a:active {
-    background-color:rgb(129, 255, 249);
-    color: white;
+    background-image: -moz-element(imgbotao);
+    color: rgb(77, 76, 76);
   }
