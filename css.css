@@ -1,9 +1,7 @@
 body{
     background-color: white;
     text-align: center;}
-header{
-  inline-size: auto;
-}
+
 h1{
     color:crimson;
     font-family: Verdana, Geneva, Tahoma, sans-serif
@@ -16,5 +14,9 @@ a:link, a:visited {
     color:rgb(0, 0, 0);
     display: none;
   }
+#opc{
+    margin: 2px;
+    padding-left: 2px;
+}
   
 
