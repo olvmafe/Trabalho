@@ -1,6 +1,9 @@
 body{
     background-color: white;
     text-align: center;}
+header{
+  inline-size: auto;
+}
 h1{
     color:crimson;
     font-family: Verdana, Geneva, Tahoma, sans-serif
